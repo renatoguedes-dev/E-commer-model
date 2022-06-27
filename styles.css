@@ -1,0 +1,81 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+
+.section {
+    padding: 0.5rem 2rem 1rem 2rem;
+    text-align: center;
+}
+
+.indexlist {
+    font-weight: bold;
+    font-size: 20px;
+    color: #5a5a5a;
+}
+
+.searchbox {
+  height: 50px;
+  width: 650px;
+  padding-left: 50px;
+
+}
+
+.iconposition {
+    position: relative;
+    z-index: 10;
+    left: -638px;
+    bottom: -13px;
+}
+
+.logo {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    background-color: #0c0c0c;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 16px;
+}
+
+.btn-dark {
+  margin-left: 20px;
+  border-radius: 8px;
+  background-color: #0446cc;
+}
+
+.login {
+  color: #5a5a5a;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.nav.index{
+  margin-left: 90px;
+  margin-right: 90px;
+}
+
+.womenpics {
+  width: 400px;
+  height: auto;
+}
+
+h1 {
+  text-align: center;
+  margin: 60px auto;
+  color: rgb(37, 37, 37);
+  font-family: 'Playfair Display', serif;
+}
+
+.copyright {
+  background-color: #1F2937;
+  color: #E5E7EB;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  margin-top: 100px;
+}

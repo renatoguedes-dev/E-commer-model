@@ -1,1 +1,1 @@
-# E-commer-model
+# E-commerce website model
